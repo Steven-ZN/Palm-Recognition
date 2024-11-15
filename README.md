@@ -1,5 +1,5 @@
 
-# Parkinson Hand Recognizing Program V3.1.1
+# HandSense 360 V3.1.1
 
 This program is a Python-based hand recognition system designed to track hand gestures, calculate metrics like completion rate and hand stability, and interact with external applications using sockets and mouse simulations. It leverages **MediaPipe Hands**, **OpenCV**, and **PyAutoGUI** to provide real-time feedback and control.
 
